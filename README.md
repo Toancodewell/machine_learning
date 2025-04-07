@@ -1,4 +1,3 @@
-# machine_learning
 # Machine Learning Model Training and Evaluation
 
 This repository contains a Jupyter notebook (`model.ipynb`) that demonstrates the process of training and evaluating a machine learning model on a dataset. The notebook covers essential steps in building a model, including data preprocessing, feature selection, model training, and evaluation using various metrics.
