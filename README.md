@@ -7,7 +7,6 @@ This repository contains a Jupyter notebook (`model.ipynb`) that demonstrates th
 
 - [Overview](#overview)
 - [Project Setup](#project-setup)
-- [Modeling Process](#modeling-process)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 
@@ -38,6 +37,12 @@ To set up and run the project:
    ```bash
    git clone https://github.com/Toancodewell/machine_learning.git
    cd machine_learning
+
+## Usage 
+- Import and preprocess the dataset 
+- Train one or more machine learning models.
+- Evaluate and compare model performance using multiple metrics.
+- Use the trained model to make predictions on new data.
 ## Dependencies
 The following Python libraries are required to run the notebook:
 - pandas
@@ -45,5 +50,4 @@ The following Python libraries are required to run the notebook:
 - matplotlib
 - seaborn
 - scikit-learn
-- xgboost (if used)
-- tensorflow (if applicable)
+
